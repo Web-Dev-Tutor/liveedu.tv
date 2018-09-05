@@ -1,2 +1,2 @@
-# livedu
-给LiveEdu的教案
+# livedu.tv
+给LiveEdu.tv的教案
